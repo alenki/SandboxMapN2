@@ -1,0 +1,15 @@
+2022/11/26-18:03:03.922 3204 Reusing MANIFEST D:/Desktop/PC/WORK/UE5/SandboxMapN2/SandboxMapN2/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/26-18:03:03.923 3204 Recovering log #4
+2022/11/26-18:03:03.923 3204 Reusing old log D:/Desktop/PC/WORK/UE5/SandboxMapN2/SandboxMapN2/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2022/11/26-18:05:46.766 4610 Level-0 table #8: started
+2022/11/26-18:05:46.791 4610 Level-0 table #8: 7048 bytes OK
+2022/11/26-18:05:46.800 4610 Delete type=0 #4
+2022/11/26-18:05:46.801 4610 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/11/26-18:05:46.812 4610 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x10\x1e\x91GKxB\x00\x03\x00\x00\x00\x00\x00\x00\x14@' @ 231 : 1
+2022/11/26-18:05:46.813 4610 Compacting 1@1 + 1@2 files
+2022/11/26-18:05:46.852 4610 Generated table #9@1: 41 keys, 2282 bytes
+2022/11/26-18:05:46.852 4610 Compacted 1@1 + 1@2 files => 2282 bytes
+2022/11/26-18:05:46.923 4610 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/11/26-18:05:46.924 4610 Delete type=2 #5
+2022/11/26-18:05:46.924 4610 Delete type=2 #8
+2022/11/26-18:05:46.926 4610 Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\x10\x1e\x91GKxB\x00\x03\x00\x00\x00\x00\x00\x00\x14@' @ 231 : 1 .. (end); will stop at (end)
