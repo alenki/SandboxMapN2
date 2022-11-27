@@ -7,7 +7,13 @@
 			"files": [
 				"D:/Desktop/PC/WORK/UE5/SandboxMapN2/SandboxMapN2/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Desktop/PC/WORK/UE5/SandboxMapN2/SandboxMapN2/Content/Main_BuiltData.uasset",
-				"D:/Desktop/PC/WORK/UE5/SandboxMapN2/SandboxMapN2/Content/Main.umap"
+				"D:/Desktop/PC/WORK/UE5/SandboxMapN2/SandboxMapN2/Content/Main.umap",
+				"D:/Desktop/PC/WORK/UE5/SandboxMapN2/SandboxMapN2/Content/Megascans/Surfaces/Mossy_Grass_vebkaeys/MI_Mossy_Grass_vebkaeys_2K.uasset",
+				"D:/Desktop/PC/WORK/UE5/SandboxMapN2/SandboxMapN2/Content/Megascans/3D_Plants/Grass_Clumps_rbojr/Foliage/FT_Grass_Clumps_rbojr_Var1_lod1.uasset",
+				"D:/Desktop/PC/WORK/UE5/SandboxMapN2/SandboxMapN2/Content/Megascans/3D_Plants/Grass_Clumps_rbojr/MI_Grass_Clumps_rbojr_2K.uasset",
+				"D:/Desktop/PC/WORK/UE5/SandboxMapN2/SandboxMapN2/Content/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material.uasset",
+				"D:/Desktop/PC/WORK/UE5/SandboxMapN2/SandboxMapN2/Content/Megascans/3D_Plants/Grass_Clumps_rbojr/Foliage/FT_Grass_Clumps_rbojr_Var2_lod1.uasset",
+				"D:/Desktop/PC/WORK/UE5/SandboxMapN2/SandboxMapN2/Content/Megascans/3D_Plants/Grass_Clumps_rbojr/Foliage/FT_Grass_Clumps_rbojr_Var3_lod1.uasset"
 			]
 		}
 	]
